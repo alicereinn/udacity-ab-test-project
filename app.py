@@ -3,9 +3,6 @@ import pandas as pd
 from scipy import stats
 import streamlit as st
 
-# TODO see how many clicks and payments on positive and negative days -> possibly more in the negative days, tilting the result
-#
-
 st.title("Udacity A/B Testing Final Project")
 
 """
